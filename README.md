@@ -2,7 +2,7 @@
 Hello, my name is Ghufron Ainun Najib 
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently Student at Informatics Engineering
 - 🌱 I’m currently learning Web Development
 
 - 🤔 I’m looking for help with ...
