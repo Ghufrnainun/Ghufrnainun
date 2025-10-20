@@ -60,9 +60,6 @@
 
 ###
 
-<div align="left">
-</div>
-
 ###
 
 <picture>
