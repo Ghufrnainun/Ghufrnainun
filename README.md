@@ -1,3 +1,5 @@
+<img src="dark_mode.svg" width="100%" />
+
 <h1 align="center">Hi 👋, I'm Ghufron Ainun Najib</h1>
 
 ###
