@@ -30,10 +30,10 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Ghufrnainun/scoreHub">scoreHub</a></h3>
-      <p>Real-time badminton scoreboard. Operators control matches from a phone while scores update live on a separate display.</p>
-      <p><strong>Next.js · TypeScript · Convex · Tailwind CSS</strong></p>
-      <a href="https://scorehub-delta.vercel.app">Live demo</a>
+      <h3><a href="https://github.com/sewainaja-pbl/sewainaja-mobile">SewainAja</a></h3>
+      <p>Mobile rental marketplace that connects customers with local rental providers, from product discovery through booking.</p>
+      <p><strong>Flutter · Express · Firebase · Cloudinary</strong></p>
+      <a href="https://github.com/sewainaja-pbl/sewainaja-mobile">Source code</a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Ghufrnainun/NetraSense">NetraSense</a></h3>
