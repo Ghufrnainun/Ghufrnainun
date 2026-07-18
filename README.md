@@ -14,6 +14,7 @@
   <a href="https://ghufronainun.tech"><strong>Portfolio</strong></a> ·
   <a href="https://linkedin.com/in/ghufron-ainun-najib-a43b5b318">LinkedIn</a> ·
   <a href="https://x.com/Ghufrnajib">X</a> ·
+  <a href="https://instagram.com/_ghfrn_an">Instagram</a> ·
   <a href="mailto:ghufronainunnajib@gmail.com">Email</a>
 </p>
 
@@ -57,12 +58,17 @@
   </tr>
 </table>
 
-## Toolkit
+## Languages and tools
 
-- **Frontend:** JavaScript, TypeScript, React, Next.js, Tailwind CSS
-- **Backend:** PHP, Laravel, Node.js, Convex, Supabase, Firebase
-- **Mobile & AI:** Flutter, Python, OpenCV, PyTorch
-- **Tools:** Git, GitHub, Linux, Docker, Figma
+- **Languages:** JavaScript, TypeScript, PHP, Python, Dart, HTML, CSS, SQL
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Backend & data:** Laravel, Node.js, Convex, Supabase, Firebase, PostgreSQL
+- **Mobile & AI:** Flutter, OpenCV, PyTorch, YOLO
+- **Workflow:** Git, GitHub, Linux, Docker, Figma, VS Code
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,php,python,dart,html,css,react,nextjs,tailwind,laravel,nodejs,supabase,firebase,postgres,flutter,pytorch,opencv,git,github,linux,docker,figma,vscode&perline=8" alt="Languages and tools Ghufron has used">
+</p>
 
 ## GitHub activity
 
@@ -71,5 +77,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ghufrnainun/Ghufrnainun/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Ghufrnainun/Ghufrnainun/output/pacman-contribution-graph.svg">
 </picture>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ghufrnainun.Ghufrnainun" alt="Profile visitors">
+</p>
 
 <p align="center"><em>Open to internships, collaborations, and useful software projects.</em></p>
