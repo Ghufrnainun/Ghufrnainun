@@ -6,8 +6,7 @@
 
 <h1 align="center">Ghufron Ainun Najib</h1>
 <p align="center">
-  Full-stack developer and IT student building web, mobile, and applied AI products.<br>
-  I turn practical problems into software people can use.
+  Full-stack dev and IT student from Semarang. I build web apps, mobile apps, and the occasional AI thing that actually gets used.
 </p>
 
 <p align="center">
@@ -21,39 +20,39 @@
 ## About me
 
 - IT student at Politeknik Negeri Semarang
-- Building full-stack products with React, Next.js, Laravel, Flutter, Firebase, Supabase, and Convex
-- Interested in applied AI, developer tools, automation, and self-hosted systems
-- Learning in public through code, experiments, and technical writing
+- Mostly TypeScript, PHP, and Dart these days. React, Next.js, Laravel, Flutter, and whatever else the project demands
+- Into applied AI, dev tooling, automation, and self-hosted systems. Running my own servers taught me more than any course did
+- I write things down as I learn, so a lot of my repos are experiments that turned into something useful
 
 ## Selected projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/sewainaja-pbl/sewainaja-mobile">SewainAja</a></h3>
-      <p>Mobile rental marketplace that connects customers with local rental providers, from product discovery through booking.</p>
-      <p><strong>Flutter · Express · Firebase · Cloudinary</strong></p>
-      <a href="https://github.com/sewainaja-pbl/sewainaja-mobile">Source code</a>
+      <h3><a href="https://github.com/Ghufrnainun/tempe-mail">TempeMail</a></h3>
+      <p>Disposable email that runs entirely on Cloudflare's edge. No VPS, no SMTP server, no config. Multi-domain, with a REST API, webhooks, and an MCP server for AI agents.</p>
+      <p><strong>TypeScript · Cloudflare Workers · D1 · Hono</strong></p>
+      <a href="https://github.com/Ghufrnainun/tempe-mail">Source code</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Ghufrnainun/NetraSense">NetraSense</a></h3>
-      <p>Assistive computer-vision system that identifies Indonesian Rupiah banknotes and reads their value aloud.</p>
-      <p><strong>Python · OpenCV · YOLO · PyTorch</strong></p>
-      <a href="https://github.com/Ghufrnainun/NetraSense">Source code</a>
+      <h3><a href="https://github.com/sewainaja-pbl/sewainaja-mobile">SewainAja</a></h3>
+      <p>Mobile rental marketplace built for a college project. Connects people who need gear with local providers, from browsing to booking.</p>
+      <p><strong>Flutter · Express · Firebase · Cloudinary</strong></p>
+      <a href="https://github.com/sewainaja-pbl/sewainaja-mobile">Source code</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Ghufrnainun/My-Porto-Guwe">Personal Portfolio</a></h3>
-      <p>Editorial portfolio with project case studies, writing, dark mode, and a Supabase-backed content dashboard.</p>
+      <p>My own site. Case studies, writing, dark mode, and a Supabase-backed dashboard for the content.</p>
       <p><strong>React · TypeScript · Supabase · Tailwind CSS</strong></p>
       <a href="https://ghufronainun.tech">Visit website</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Ghufrnainun/Dashboard-Web-Map-Contour">Web Map Contour</a></h3>
-      <p>Interactive dashboard for exploring map and contour data in a browser.</p>
-      <p><strong>Web mapping · Data visualization</strong></p>
-      <a href="https://github.com/Ghufrnainun/Dashboard-Web-Map-Contour">Source code</a>
+      <h3><a href="https://github.com/Ghufrnainun/NetraSense">NetraSense</a></h3>
+      <p>Computer vision tool that reads Indonesian Rupiah banknotes out loud. Built to help visually impaired users, trained on local currency.</p>
+      <p><strong>Python · OpenCV · YOLO · PyTorch</strong></p>
+      <a href="https://github.com/Ghufrnainun/NetraSense">Source code</a>
     </td>
   </tr>
 </table>
